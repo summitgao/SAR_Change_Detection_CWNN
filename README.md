@@ -1,4 +1,3 @@
-# CWNN
 
 A Matlab implementation for our paper:
 
